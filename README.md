@@ -5,7 +5,7 @@ Repository ini berisikan script Python yang menerima masukan (_prompt_) berupa t
 ## Installation
 
 Untuk menjalankan script Python ini dapat menggunakan Jupyter Notebook, PyCharm atau Visual Studio Code.
-Lalu install library yang dibutuhkan dengan menggunakan package manager pip.
+Lalu install library yang dibutuhkan dengan menggunakan package manager ```pip```.
 
 ### Text To Image
 
